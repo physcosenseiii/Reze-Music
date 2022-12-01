@@ -1,2 +1,2 @@
 web: python -m http.server $PORT 
-worker: python3 -m Reze-Music
+worker: python3 -m AnonX
